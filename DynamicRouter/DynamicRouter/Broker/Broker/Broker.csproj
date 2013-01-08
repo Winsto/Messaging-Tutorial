@@ -8,8 +8,8 @@
     <ProjectGuid>{2FF71737-9FA1-484E-A7F9-F43E5C658B48}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Receiver</RootNamespace>
-    <AssemblyName>Receiver</AssemblyName>
+    <RootNamespace>Broker</RootNamespace>
+    <AssemblyName>Broker</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>
